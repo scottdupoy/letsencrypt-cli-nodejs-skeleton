@@ -1,0 +1,10 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
